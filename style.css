@@ -23,6 +23,10 @@ body{
   font-size: 0.8rem;
 }
 
+#restore{
+  display: none;
+}
+
 ::selection {
   background: var(--blue);
   color: #ffffff;
